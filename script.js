@@ -193,17 +193,11 @@ const popup=document.getElementById("popup");
 
 const typing=document.getElementById("typing");
 
-const message = `Happy Birthday Dear Sister ❤️
+const message = `Happy Birthday, Eti! 🎉🎂
 
-May Allah bless you with endless happiness,
-good health,
-success,
-and a beautiful life.
+May Allah always keep you happy, healthy, and blessed. I pray that, little by little, all your dreams and wishes come true.
 
-Thank you for always supporting me.
-
-You are one of the greatest blessings
-in my life.
+Stay happy, keep smiling, and enjoy your special day. Wishing you lots of love and best wishes. ❤️🎁
 
 With Love ❤️
 
